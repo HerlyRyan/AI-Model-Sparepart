@@ -12,7 +12,7 @@ st.set_page_config(page_title="AI Image Classifier", page_icon="🧠", layout="c
 # ===============================
 # 🧠 CONFIGURASI DASAR
 # ===============================
-MODEL_PATH = "model/model_trained_v1.0.0_20251221_211024.tflite"   # atau "model/model_trained.tflite"
+MODEL_PATH = "model/model_trained_v1.0.0_20260329_124021.tflite"   # atau "model/model_trained.tflite"
 LABEL_PATH = "model/labels.txt"
 TARGET_SIZE = (224, 224)
 
